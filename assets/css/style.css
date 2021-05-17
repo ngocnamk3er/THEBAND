@@ -80,7 +80,7 @@ a{
    margin-top: 46px;
    padding-top: 50%;
    width: 100%;
-   background-image: url("./assets/img/chicago.jpg");
+   background-image: url("/assets/img/chicago.jpg");
    position: relative;
    background-size: contain;
    z-index: 0;
